@@ -1,5 +1,5 @@
 #!/bin/bash
 
-docker build -t pskillen/docker-teamcity-server .
+docker build -t pskillen/teamcity-server .
 
-docker push pskillen/docker-teamcity-server
+docker push pskillen/teamcity-server
